@@ -4,7 +4,7 @@ user_id,user_name,user_password,self_introduction,school_name_id,major_name_id,e
 3,Eugene Wu,Xxxxxxxx,Hi! I teach database. I love coding and working out. I wanna to visit Korea.,1,6,NaN,30,1,False
 4,James Burton,Xxxxxxxx,Hi! I am a college soccer player and I’m here to learn French in order to play for PSG in the future.,3,1,jb33332@columbia.edu,22,1,False
 5,Michelle Kim,Xxxxxxxxxx,null,2,2,mk1245112@columbia.edu,19,2,False
-6,Markelle West,Xxx,Hi! I am a CS major wanting to learn Japanese to actually understand anime.,1,6,mw445566@columbia.edu,None,2,False
+6,Markelle West,Xxx,Hi! I am a CS major wanting to learn Japanese to actually understand anime.,1,6,mw445566@columbia.edu,,,False
 7,Ryan Ko,Xxxx,Just me being extra,4,7,NULL,NULL,NULL,False
 8,Brandon Ciampa,Xxxxx,I am super lazy…,5,4,null,null,null,Default
 9,Karen Li,Xxxxxx,null,null,null,null,null,null,False
