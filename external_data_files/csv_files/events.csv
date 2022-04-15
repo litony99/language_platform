@@ -8,4 +8,4 @@ event_id,uid,event_title,event_content,event_post_time,is_allday,join_limit,join
 7,9,Table tennis day,Lets play table tennis and talk!,3/26/2022 7:45:00 PM,FALSE,10,10,3/28/2022,3/28/2022,08:00:00,10:00:00,FALSE
 8,10,PS5 night,iykyk,3/27/2022 5:45:00 PM,FALSE,3,2,3/27/2022,3/27/2022,20:00:00,23:00:00,FALSE
 9,3,Language table,Feel free to join us @ the front lawn,3/27/2022 8:00:00 PM,FALSE,15,5,3/28/2022,3/28/2022,13:00:00,14:00:00,FALSE
-10,3,Virtual meetup,Zoom link below,3/28/2022 7:10:05 AM,FALSE,50,2,3/28/2022,3/28/2022,13:30:00,15:00:00,FALSE
+10,3,Virtual meetup,Zoom link below,3/28/2022 7:10:05 AM,TRUE,50,2,3/28/2022,3/28/2022,null,null,FALSE
