@@ -1,11 +1,11 @@
 review_id,rid,uid,review_content,review_post_time,star_score,vote_score,user_deleted
-1,1,2,thanks! Well-needed,4/9/2022 2:15:00 PM,5,5,FALSE
-2,1,1,Life saving,4/9/2022 2:27:05 PM,5,5,FALSE
-3,1,8,This is a terrible book…,4/9/2022 3:33:09 PM,2,4,FALSE
-4,2,3,Why is the appendix even uploaded…,4/9/2022 4:12:10 PM,2,2,FALSE
-5,2,4,Nice,4/9/2022 5:15:50 PM,4,3,FALSE
+1,1,2,thanks! Well-needed,4/9/2022 2:15:00 PM,5,15,FALSE
+2,1,1,Life saving,4/9/2022 2:27:05 PM,5,35,FALSE
+3,1,8,This is a terrible book…,4/9/2022 3:33:09 PM,2,24,FALSE
+4,2,3,Why is the appendix even uploaded…,4/9/2022 4:12:10 PM,2,103,FALSE
+5,2,4,Nice,4/9/2022 5:15:50 PM,4,5,FALSE
 6,2,1,This appendix offers some interesting views,4/9/2022 6:18:30 PM,4,10,FALSE
 7,2,5,Mediocre,4/9/2022 8:22:10 PM,2,0,FALSE
-8,3,6,Not recommend,4/9/2022 9:44:00 PM,3,1,FALSE
-9,3,7,This one is a joke,4/9/2022 9:45:30 PM,3,-2,FALSE
-10,3,8,The resource is so sucks,4/9/2022 9:46:05 PM,3,-5,FALSE
+8,3,6,Not recommend,4/9/2022 9:44:00 PM,3,-30,FALSE
+9,3,7,This one is a joke,4/9/2022 9:45:30 PM,3,-66,FALSE
+10,3,8,The resource is so sucks,4/9/2022 9:46:05 PM,3,-10,FALSE
